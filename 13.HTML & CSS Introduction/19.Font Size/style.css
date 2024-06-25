@@ -1,0 +1,19 @@
+.font-size:first-of-type {
+    font-size: small;
+}
+
+.font-size:nth-child(2) {
+    font-size: medium;
+}
+
+.font-size:nth-child(3) {
+    font-size: large;
+}
+
+.font-size:nth-child(4) {
+    font-size: xx-small;
+}
+
+.font-size:last-of-type {
+    font-size: xx-large;
+}
