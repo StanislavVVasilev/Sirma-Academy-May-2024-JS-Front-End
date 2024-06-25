@@ -1,0 +1,19 @@
+.family:first-of-type {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.family:nth-child(2) {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.family:nth-child(3) {
+    font-family: fantasy;
+}
+
+.family:nth-child(4) {
+    font-family: monospace;
+}
+
+.family:last-of-type {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
