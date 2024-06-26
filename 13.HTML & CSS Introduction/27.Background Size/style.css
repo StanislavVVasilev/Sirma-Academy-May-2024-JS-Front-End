@@ -1,0 +1,11 @@
+html {
+    background-image: url('funny-image.jpg');
+    background-size: cover;
+}
+
+div {
+    background-image: url('funny-image.jpg');
+    background-size: cover;
+    width: fit-content;
+    height: 35em;
+}
