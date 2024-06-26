@@ -1,0 +1,19 @@
+#google:hover {
+    padding: 10px;
+    border: 3px solid red;
+    background-color: rgb(219, 138, 108);
+    color: whitesmoke;
+}
+
+[type=button] {
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid #04AA6D;
+    cursor: pointer;
+}
+
+[type=button]:hover {
+    background-color: greenyellow;
+    border: 2px dashed red;
+    color: white;
+}
