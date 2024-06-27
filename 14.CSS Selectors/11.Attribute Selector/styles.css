@@ -1,0 +1,14 @@
+input[type="text"] {
+    text-transform: capitalize;
+    border: 1px solid red;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+    background-color: green;
+}
+
+a[href="https://example.com"] {
+     color: red;
+}
+
