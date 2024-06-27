@@ -1,0 +1,14 @@
+.highlight {
+     color:red;
+     background-color: blanchedalmond;
+}
+
+.common-style {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-transform: lowercase;
+}
+
+.highlight.two {
+    background-color: lightskyblue;
+}
