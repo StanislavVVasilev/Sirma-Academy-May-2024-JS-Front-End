@@ -1,0 +1,7 @@
+.height-example {
+    background-color: aqua;
+    font-size: 5em;
+    height: 250px;
+    min-height: 25%;
+    max-height: 50%;
+}
