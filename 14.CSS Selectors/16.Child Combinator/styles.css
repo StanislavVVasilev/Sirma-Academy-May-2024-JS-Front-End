@@ -1,0 +1,10 @@
+div > p {
+     color: red;
+     text-transform: uppercase;
+}
+
+.parent > p {
+     color: green;
+     text-transform: lowercase;
+}
+
