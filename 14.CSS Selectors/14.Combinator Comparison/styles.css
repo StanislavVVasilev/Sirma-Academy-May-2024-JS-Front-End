@@ -1,0 +1,9 @@
+div p {
+    text-decoration: underline;
+    color: red;
+}
+
+div > p {
+    text-align: right;
+    text-transform: uppercase;
+}
