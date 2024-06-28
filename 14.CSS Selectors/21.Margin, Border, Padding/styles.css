@@ -1,0 +1,7 @@
+.box-model {
+    margin: 20px;
+    border: 2px dashed green;
+    padding: 4px;
+    font-size: 5em;
+    text-align: center;
+}
