@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>JS DOM paragraph style</title>
+</head> 
+<body>
+  <p id ='text'>JavaScript Exercises</p> 
+  <div>
+    <button onclick="restyle()">Style</button>
+  </div>
+  <script>
+    function restyle() {
+        const paragraphEl = document.getElementById('text');
+        paragraphEl.style.color = 'green';
+        paragraphEl.style.fontFamily = 'Verdana';
+        paragraphEl.style.fontSize = '2em';
+    }
+  </script>
+</body>
+</html>
