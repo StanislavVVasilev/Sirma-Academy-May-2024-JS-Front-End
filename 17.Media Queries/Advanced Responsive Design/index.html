@@ -6,6 +6,7 @@
     <title>Advanced Responsive Design</title>
     <style>
         body {
+
         }
 
         header, footer {
@@ -35,7 +36,6 @@
             }
 
             nav {
-                display: flex;
                 visibility: hidden;
             }
         }
@@ -44,6 +44,9 @@
             nav {
                 display: flex;
                 flex-direction: column;
+                position: sticky;
+                left: 0;
+                visibility: visible;
             }
 
             .container {
@@ -55,6 +58,7 @@
         @media (min-width: 1400px) {
             nav {
                 display: flex;
+                visibility: visible;
             }
 
             .container {
